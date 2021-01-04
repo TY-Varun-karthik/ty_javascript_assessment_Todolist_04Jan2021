@@ -1,0 +1,52 @@
+body{
+    background-color:black;
+}
+
+.jumbotron{
+     height: 200px;
+     background-color: orange;
+}
+
+#head{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#inputField {
+    width: 800px;
+    height: 50px;
+    border: 1px solid black;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+    margin-left: 300px;
+    
+}
+
+#addToDo {
+    background-color:;
+    height: 50px;
+    width: 100px;
+    border: 1px solid black;
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+.list-styling {
+   
+    width: 1450px;
+    border: 1px solid orange; 
+    cursor: pointer;
+    font-size: 30px;
+    margin: 0px;
+    background-color:white;
+    content: '✓';
+}
+
+
+.to-dos {
+    margin-top: 25px;
+}
+
+
+
